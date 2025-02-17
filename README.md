@@ -19,5 +19,6 @@ The **Personal Finance Visualizer** is a web application built using **Next.js**
   - **MongoDB** (for storing transaction data)
 - **Hosting**: 
   - **Vercel** (for deployment)
+  - **Link**: https://personal-finance-visualizer-nu.vercel.app/
 
 
