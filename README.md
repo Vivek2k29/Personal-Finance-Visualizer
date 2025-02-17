@@ -20,15 +20,4 @@ The **Personal Finance Visualizer** is a web application built using **Next.js**
 - **Hosting**: 
   - **Vercel** (for deployment)
 
-## Getting Started
 
-### Prerequisites
-To run this project locally, you need to have the following installed:
-- **Node.js** (version 14 or above)
-- **MongoDB** (or use **MongoDB Atlas** for cloud hosting)
-
-### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Vivek2k29/Personal-Finance-Visualizer.git
